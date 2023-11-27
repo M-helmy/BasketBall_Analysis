@@ -111,4 +111,28 @@ DerrickRose_PTS = [597,597,597,1361,1619,2026,852,0,159,904]
 DwayneWade_PTS = [2040,1397,1254,2386,2045,1941,1082,1463,1028,1331]
 #Matrix
 Points = np.array([KobeBryant_PTS, JoeJohnson_PTS, LeBronJames_PTS, CarmeloAnthony_PTS, DwightHoward_PTS, ChrisBosh_PTS, ChrisPaul_PTS, KevinDurant_PTS, DerrickRose_PTS, DwayneWade_PTS])             
-                  
+
+"#Free Throws\n",
+    "KobeBryant_FT = [696,667,623,483,439,483,381,525,18,196]\n",
+    "JoeJohnson_FT = [261,235,316,299,220,195,158,132,159,141]\n",
+    "LeBronJames_FT = [601,489,549,594,593,503,387,403,439,375]\n",
+    "CarmeloAnthony_FT = [573,459,464,371,508,507,295,425,459,189]\n",
+    "DwightHoward_FT = [356,390,529,504,483,546,281,355,349,143]\n",
+    "ChrisBosh_FT = [474,463,472,504,470,384,229,241,223,179]\n",
+    "ChrisPaul_FT = [394,292,332,455,161,337,260,286,295,289]\n",
+    "KevinDurant_FT = [209,209,391,452,756,594,431,679,703,146]\n",
+    "DerrickRose_FT = [146,146,146,197,259,476,194,0,27,152]\n",
+    "DwayneWade_FT = [629,432,354,590,534,494,235,308,189,284]\n",
+   
+    "#Free Throw Attempts\n",
+    "KobeBryant_FTA = [819,768,742,564,541,583,451,626,21,241]\n",
+    "JoeJohnson_FTA = [330,314,379,362,269,243,186,161,195,176]\n",
+    "LeBronJames_FTA = [814,701,771,762,773,663,502,535,585,528]\n",
+    "CarmeloAnthony_FTA = [709,568,590,468,612,605,367,512,541,237]\n",
+    "DwightHoward_FTA = [598,666,897,849,816,916,572,721,638,271]\n",
+    "ChrisBosh_FTA = [581,590,559,617,590,471,279,302,272,232]\n",
+    "ChrisPaul_FTA = [465,357,390,524,190,384,302,323,345,321]\n",
+    "KevinDurant_FTA = [256,256,448,524,840,675,501,750,805,171]\n",
+    "DerrickRose_FTA = [205,205,205,250,338,555,239,0,32,187]\n",
+    "DwayneWade_FTA = [803,535,467,771,702,652,297,425,258,370]\n",
+    "\n",
